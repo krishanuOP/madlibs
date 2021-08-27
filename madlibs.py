@@ -1,0 +1,22 @@
+adjective= input("enter an adjective:")
+nationality= input("enter any nationality:")
+name= input("enter a name:")
+noun= input("enter a noun")
+plural_noun= input("enter a plural_noun:")
+number= input("enter a number:")
+shapes= input("enter a shape:")
+food= input("enter a food:")
+person=print("enter a person:")
+
+print("Pizza was invented by a " + adjective , nationality )
+print("chef named " + name + "." + "To make Pizza, you need")
+print("to take a lump of " + noun+ ","+ "and make a thin , round")
+print(adjective, noun+ "."+  "Then you cover it with")
+print(adjective+ " sauce"+ ","+ adjective+ " cheese, and fresh")
+print("chopped "+ plural_noun + ". Next you have to bake it in a very")
+print("hot" + noun + ". When it is done, cut it into"+ number)
+print(number+ ". Some kids like" + food + "pizza the")
+print("best, but my favourite is the" + food + "pizza.If could, I")
+print("would eat pizza" + number +"times a day!")
+
+
